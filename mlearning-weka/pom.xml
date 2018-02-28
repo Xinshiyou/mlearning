@@ -27,6 +27,21 @@
 			<version>3.8.0</version>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-dev -->
+		<dependency>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>weka-dev</artifactId>
+			<version>3.7.11</version>
+		</dependency>
+
+		<!-- lastest version : forge.net -->
+		<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/ensembleLibrary -->
+		<dependency>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>ensembleLibrary</artifactId>
+			<version>1.0.4</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
