@@ -8,7 +8,7 @@
 		<artifactId>mlearning</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	
+
 	<groupId>com.hundun.mlearning.wka</groupId>
 	<artifactId>mlearning-weka</artifactId>
 	<name>mlearning-weka</name>
@@ -19,6 +19,14 @@
 	</properties>
 
 	<dependencies>
+
+		<!-- https://mvnrepository.com/artifact/nz.ac.waikato.cms.weka/weka-stable -->
+		<dependency>
+			<groupId>nz.ac.waikato.cms.weka</groupId>
+			<artifactId>weka-stable</artifactId>
+			<version>3.8.0</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
